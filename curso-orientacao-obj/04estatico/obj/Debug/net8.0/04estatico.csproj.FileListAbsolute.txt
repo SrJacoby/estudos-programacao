@@ -1,0 +1,14 @@
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\bin\Debug\net8.0\04estatico.exe
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\bin\Debug\net8.0\04estatico.deps.json
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\bin\Debug\net8.0\04estatico.runtimeconfig.json
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\bin\Debug\net8.0\04estatico.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\bin\Debug\net8.0\04estatico.pdb
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\obj\Debug\net8.0\04estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\obj\Debug\net8.0\04estatico.AssemblyInfoInputs.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\obj\Debug\net8.0\04estatico.AssemblyInfo.cs
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\obj\Debug\net8.0\04estatico.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\obj\Debug\net8.0\04estatico.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\obj\Debug\net8.0\refint\04estatico.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\obj\Debug\net8.0\04estatico.pdb
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\obj\Debug\net8.0\04estatico.genruntimeconfig.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\04estatico\obj\Debug\net8.0\ref\04estatico.dll

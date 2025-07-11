@@ -1,0 +1,14 @@
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\bin\Debug\net8.0\03construtor.exe
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\bin\Debug\net8.0\03construtor.deps.json
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\bin\Debug\net8.0\03construtor.runtimeconfig.json
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\bin\Debug\net8.0\03construtor.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\bin\Debug\net8.0\03construtor.pdb
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\obj\Debug\net8.0\03construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\obj\Debug\net8.0\03construtor.AssemblyInfoInputs.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\obj\Debug\net8.0\03construtor.AssemblyInfo.cs
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\obj\Debug\net8.0\03construtor.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\obj\Debug\net8.0\03construtor.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\obj\Debug\net8.0\refint\03construtor.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\obj\Debug\net8.0\03construtor.pdb
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\obj\Debug\net8.0\03construtor.genruntimeconfig.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\03construtor\obj\Debug\net8.0\ref\03construtor.dll

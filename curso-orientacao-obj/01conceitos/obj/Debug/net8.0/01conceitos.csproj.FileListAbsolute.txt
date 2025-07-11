@@ -1,0 +1,14 @@
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\bin\Debug\net8.0\01conceitos.exe
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\bin\Debug\net8.0\01conceitos.deps.json
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\bin\Debug\net8.0\01conceitos.runtimeconfig.json
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\bin\Debug\net8.0\01conceitos.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\bin\Debug\net8.0\01conceitos.pdb
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\obj\Debug\net8.0\01conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\obj\Debug\net8.0\01conceitos.AssemblyInfoInputs.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\obj\Debug\net8.0\01conceitos.AssemblyInfo.cs
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\obj\Debug\net8.0\01conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\obj\Debug\net8.0\01conceitos.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\obj\Debug\net8.0\refint\01conceitos.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\obj\Debug\net8.0\01conceitos.pdb
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\obj\Debug\net8.0\01conceitos.genruntimeconfig.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\01conceitos\obj\Debug\net8.0\ref\01conceitos.dll

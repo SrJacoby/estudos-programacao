@@ -1,0 +1,14 @@
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\bin\Debug\net8.0\05heranca.exe
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\bin\Debug\net8.0\05heranca.deps.json
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\bin\Debug\net8.0\05heranca.runtimeconfig.json
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\bin\Debug\net8.0\05heranca.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\bin\Debug\net8.0\05heranca.pdb
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\obj\Debug\net8.0\05heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\obj\Debug\net8.0\05heranca.AssemblyInfoInputs.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\obj\Debug\net8.0\05heranca.AssemblyInfo.cs
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\obj\Debug\net8.0\05heranca.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\obj\Debug\net8.0\05heranca.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\obj\Debug\net8.0\refint\05heranca.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\obj\Debug\net8.0\05heranca.pdb
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\obj\Debug\net8.0\05heranca.genruntimeconfig.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\05heranca\obj\Debug\net8.0\ref\05heranca.dll

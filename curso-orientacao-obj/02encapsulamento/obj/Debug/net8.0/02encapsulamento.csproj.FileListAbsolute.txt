@@ -1,0 +1,14 @@
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\bin\Debug\net8.0\02encapsulamento.exe
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\bin\Debug\net8.0\02encapsulamento.deps.json
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\bin\Debug\net8.0\02encapsulamento.runtimeconfig.json
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\bin\Debug\net8.0\02encapsulamento.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\bin\Debug\net8.0\02encapsulamento.pdb
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\obj\Debug\net8.0\02encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\obj\Debug\net8.0\02encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\obj\Debug\net8.0\02encapsulamento.AssemblyInfo.cs
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\obj\Debug\net8.0\02encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\obj\Debug\net8.0\02encapsulamento.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\obj\Debug\net8.0\refint\02encapsulamento.dll
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\obj\Debug\net8.0\02encapsulamento.pdb
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\obj\Debug\net8.0\02encapsulamento.genruntimeconfig.cache
+C:\Users\Luiz Augusto\Documents\estudos\orientacao-obj\02encapsulamento\obj\Debug\net8.0\ref\02encapsulamento.dll

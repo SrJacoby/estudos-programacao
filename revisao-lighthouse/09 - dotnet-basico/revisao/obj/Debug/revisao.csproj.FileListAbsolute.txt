@@ -1,0 +1,7 @@
+C:\Users\Luiz Augusto\Documents\estudos\revisao-lighthouse\09 - dotnet-basico\revisao\obj\Debug\revisao.csproj.AssemblyReference.cache
+C:\Users\Luiz Augusto\Documents\estudos\revisao-lighthouse\09 - dotnet-basico\revisao\obj\Debug\revisao.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Augusto\Documents\estudos\revisao-lighthouse\09 - dotnet-basico\revisao\bin\Debug\revisao.exe.config
+C:\Users\Luiz Augusto\Documents\estudos\revisao-lighthouse\09 - dotnet-basico\revisao\bin\Debug\revisao.exe
+C:\Users\Luiz Augusto\Documents\estudos\revisao-lighthouse\09 - dotnet-basico\revisao\bin\Debug\revisao.pdb
+C:\Users\Luiz Augusto\Documents\estudos\revisao-lighthouse\09 - dotnet-basico\revisao\obj\Debug\revisao.exe
+C:\Users\Luiz Augusto\Documents\estudos\revisao-lighthouse\09 - dotnet-basico\revisao\obj\Debug\revisao.pdb
