@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Games</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h3>Responda o formulário gamer!</h3>
+        </div>
+        <div class="form-container">
+            <div class="form-header">
+                <p>Formulário</p>
+            </div>
+            <div class="form-body">
+                <h1 class="form-title">Formulário feito para fãs de games!</h1>
+                <p>Responda o formulário do mundo gamer conforme suas preferências</p>
+                <form>
+                    <div class="box-input">
+                        <label for="title">Game Favorito<span class="requires-field">*</span></label>
+                        <input type="text" name="title" id="title" class="block" placeholder="Insira seu game favorito" minlength="1" maxlength="30" required>
+                    </div>
+                    <div class="box-input">
+                        <label for="price">Quanto tempo você joga ele?<span class="requires-field">*</span>
+                        </label>
+                        <input 
+                        type="number" 
+                        name="price" 
+                        id="price" 
+                        class="block" 
+                        placeholder="Responda no formato de anos" 
+                        required>
+                    </div>
+                    <div class="box-input">
+                        <label for="description">Por qual motivo ele é seu game favorito? <span class="requires-field">*</span>
+                        </label>
+                        <textarea name="description" id="description" class="block" placeholder="Explique o motivo do game selecionado ser seu favorito."></textarea>
+                    </div>
+                
+                    <div class="box-input">
+                        <label for="purchase-date">Qual a data de seu lançamento?<span class="requires-field">*</span>
+                        </label>
+                        <input 
+                        type="date" 
+                        name="purchase-date" 
+                        id="purchase-date" 
+                        class="block" 
+                        required>
+                    </div>
+                    <div class="box-input">
+                        <p>Você zerou ele? <span class="requires-field">*</span></p>
+                        <input 
+                        type="radio" 
+                        name="gear" 
+                        id="sim"
+                        >
+                        <label for="sim">Sim</label>
+                        <input 
+                        type="radio" 
+                        name="gear" 
+                        id="nao"
+                        >
+                        <label for="nao">Não</label>
+                    </div>
+
+                    <div class="optional-box">
+                        <p>Qual(is) o(s) gênero(s) dele?</p>
+                        <ul class="optional-list">
+                            <li>
+                                <input type="checkbox" name="optional[]" id="airbag" value="airbag">
+                                <label for="airbag">Ação</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="optional[]" id="alarm" value="alarm">
+                                <label for="alarm">Aventura</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="optional[]" id="ac" value="ac">
+                                <label for="ac">RPG</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="optional[]" id="reverse_camera" value="reverse_camera">
+                                <label for="reverse-camera">Mundo Aberto</label>
+                            </li>
+                            
+                        </div>
+                    <div class="optional-box">
+                        
+                        <ul class="optional-list">
+                            <li>
+                                <input type="checkbox" name="optional[]" id="lane-assist" value="lane-assist">
+                                <label for="lane-assist">Online</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="optional[]" id="keyless" value="keyless">
+                                <label for="keyless">Casual</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="optional[]" id="smartphone" value="smartphone">
+                                <label for="smartphone">Indie</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" name="optional[]" id="leather-seat" value="leather-seat">
+                                <label for="leather-seat">Esportes</label>
+                            </li>
+                        </ul>
+                        
+                    </div>
+                    <div class="box-input">
+                        <p>Fotos do jogo: <span class="requires-field">*</span></p>
+                        <input type="file" multiple accept="image/png, image/jpg" id="images" name="images" required>
+                    </div>
+                    <input type="submit" value="Enviar" class="btn-submit">
+                </form>
+            
+        </div>
+    </div>
+</body>
+</html>
