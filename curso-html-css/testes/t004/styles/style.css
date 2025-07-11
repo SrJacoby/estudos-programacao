@@ -1,0 +1,158 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'Destruída';
+    src: url('../fontes/28\ Days\ Later.ttf') format('truetype');
+    font-weight: normal;
+}
+
+/* Cores 
+#EEE1BA - Cor 01
+#EBCC71 - Cor 02
+#C2B280 - Cor 03
+#BAA259 - Cor 04
+#6B5D33 - Cor 05
+*/
+
+:root {
+    --cor00: #EEE1BA;
+    --cor01: #ebcd71d3;
+    --cor02: #C2B280;
+    --cor03: #BAA259;
+    --cor04: #6B5D33;
+
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destruida: 'Destruída', sans-serif;
+    --fonte-destaque: 'Oswald', serif; 
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: var(--fonte-padrao);
+    background-image: linear-gradient(to right, var(--cor00), var(--cor01))
+}
+
+header h1 {
+    font-size: 4em;
+    text-align: center;
+    color: var(--cor04);
+    margin: 0px;
+    padding: 15px 0px 0px 5px;
+    background-image: linear-gradient(to bottom, var(--cor01), var(--cor02));
+    font-family: var(--fonte-destruida);
+    font-weight: normal;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.356);
+}
+
+nav img {
+    width: 100%;
+    margin-top: 5px;
+}
+
+nav {
+    background-color: var(--cor04);
+    text-align: center;
+    padding-top: 10px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.404);;
+}
+
+nav img {
+    margin-top: 5px;
+}
+
+nav > a:hover {
+    background-color: var(--cor01);
+    border-radius: 5px;
+    color: var(--cor04);
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    transition-duration: .5s;
+    font-weight: bold;
+}
+
+main {
+    background-color: white;
+    max-width: 1000px;
+    min-width: 300px;
+    margin: auto;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.404);
+    border-radius: 0px 0px 10px 10px;
+}
+
+main img {
+    max-width: 800px;
+    margin: auto;
+    display: block;
+    width: 100%;
+}
+
+main h1 {
+    text-align: center;
+    color: var(--cor04);
+    font-size: 2em;
+    font-family: var(--fonte-destaque);
+    font-weight: bolder;
+    padding-top: 10px;
+}
+
+main h2 {
+    text-align: center;
+    color: var(--cor04);
+    font-size: 1.7em;
+    font-weight: bold;
+    font-family: var(--fonte-destaque);
+    margin: 10px 0px;
+}
+
+main p {
+    margin: 10px 10px;
+    text-indent: 25px;
+    line-height: 1.5em;
+    text-align: justify;
+}
+
+h3 {
+    text-align: center;
+    color: var(--cor04);
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: var(--fonte-destaque);
+    margin: 10px 0px;
+}
+
+h3::before {
+    content: '\00A0\1F4F9';
+}
+
+    div.video {
+        margin: -20px -20px 10px -20px;
+        padding: 5px;
+        padding-bottom: 57.5%;
+        position: relative;
+    }
+    
+    div.video > iframe {
+        position: absolute;
+        top: 5%;
+        left: 5%;
+        width: 90%;
+        height: 90%;
+    }
+
+    footer {
+        background-color: var(--cor04);
+        color: var(--cor00);
+        text-align: center;
+        padding: 5px;
+    }

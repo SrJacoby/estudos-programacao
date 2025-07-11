@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Data",
+    "\\Migrations",
+    "\\Models",
+    "\\Routes"
+  ],
+  "SelectedNode": "\\Routes\\PersonRoute.cs",
+  "PreviewInSolutionExplorer": false
+}

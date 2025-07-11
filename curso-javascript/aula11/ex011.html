@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de País</title>
+</head>
+<body>
+    <h1>Verifique sua Nacionalidade</h1>
+    Seu país: <input type="text" name="pais" id="ipais">
+    <input type="button" value="Validar" onclick="calcular()">
+    <div id="res"></div>
+    <script>
+        function calcular(){
+            var ptxt = document.getElementById('ipais')
+            var res = document.getElementById('res')
+            var pais = (ptxt.value)
+            res.innerHTML = `Seu país é ${pais}.`
+            if(pais == 'Brasil'){
+                res.innerHTML += ` Você é brasileiro!`
+            }else{
+                res.innerHTML += ` Você é estrangeiro!`
+            }
+            
+        }
+    </script>
+</body>
+</html>
