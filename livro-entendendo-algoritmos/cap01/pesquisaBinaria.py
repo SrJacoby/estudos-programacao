@@ -1,3 +1,5 @@
+#Algoritmo de pesquisa binária => O(log n)
+
 def pesquisa_binaria(lista, item):
     baixo = 0
     alto = len(lista) - 1
