@@ -124,3 +124,75 @@ df_cidades = pd.DataFrame({
 df_cidades['cidade_preenchida'] = df_cidades['cidade'].fillna("Não informado")
 
 print(df_cidades)
+
+#----------aula 03----------
+
+df_limpo['senioridade'].value_counts().plot(kind="bar", title="Distribuição de cargos")
+
+import seaborn as sns
+
+sns.barplot(data=df_limpo, x='senioridade', y='usd')
+
+import matplotlib.pyplot as plt
+
+plt.figure(figsize=(8,5))
+sns.barplot(data=df_limpo, x='senioridade', y='usd')
+plt.title("Salário Médio por Senioridade")
+plt.xlabel("Senioridade")
+plt.ylabel("Salário Médio (USD)")
+plt.show()
+
+ordem = df_limpo.groupby('senioridade')['usd'].mean().sort_values(ascending=False).index
+plt.figure(figsize=(8,5))
+sns.barplot(data=df_limpo, x='senioridade', y='usd', order=ordem)
+plt.title("Salário Médio por Senioridade")
+plt.xlabel("Senioridade")
+plt.ylabel("Salário Médio (USD)")
+plt.show()
+
+plt.figure(figsize=(8,4))
+sns.histplot(df_limpo['usd'], bins = 50, kde=True)
+plt.title("Distribuição dos salários anuais médios por senioridade")
+plt.xlabel("Salário em USD")
+plt.ylabel("Frequência")
+plt.show()
+
+plt.figure(figsize=(8,5))
+sns.boxplot(x=df_limpo['usd'])
+plt.title("Boxplot Salário")
+plt.xlabel("Salário em USD")
+plt.show()
+
+ordem_senioridade = ['Júnior', 'Pleno', 'Sênior', 'Executivo']
+plt.figure(figsize=(8,5))
+sns.boxplot(x='senioridade', y='usd', data=df_limpo, order=ordem_senioridade)
+plt.title("Boxplot Salário")
+plt.xlabel("Salário em USD")
+plt.show()
+
+ordem_senioridade = ['Júnior', 'Pleno', 'Sênior', 'Executivo']
+plt.figure(figsize=(8,5))
+sns.boxplot(x='senioridade', y='usd', data=df_limpo, order=ordem_senioridade, palette='Set2', hue='senioridade')
+plt.title("Boxplot Salário")
+plt.xlabel("Salário em USD")
+plt.show()
+
+import plotly.express as px
+
+plt.figure(figsize=(8,5))
+fig = px.bar(df_limpo.groupby('senioridade')['usd'].mean().sort_values(ascending=False).reset_index(),
+             x='senioridade', y='usd',
+             title='Salário Médio por Senioridade',
+             labels={'senioridade': 'Senioridade', 'usd': 'Salário Médio (USD)'})
+fig.show()
+
+remoto_contagem = df_limpo['remoto'].value_counts().reset_index()
+remoto_contagem.columns = ['tipo_trabalho', 'quantidade']
+fig = px.pie(remoto_contagem, 
+             values='quantidade', 
+             names='tipo_trabalho', 
+             title='Distribuição de Tipos de Trabalho Remoto',
+             hole=0.5
+             )
+fig.update_traces(textinfo='percent+label')
+fig.show()
