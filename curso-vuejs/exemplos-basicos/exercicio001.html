@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo 001</title>
+    <script src="https://unpkg.com/vue@3"></script>
+</head>
+<body>
+    <div id="app">
+        <h1>{{ mensagem }}</h1>
+    </div>
+
+    <script>
+        const {createApp} = Vue
+
+        createApp({
+            data(){
+                return {
+                    mensagem: "Olá, mundo!"
+                }
+            }
+        }).mount('#app')
+    </script>
+</body>
+</html>
